@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import Particles from 'react-particles-js';
-import Clarifai from 'clarifai';
 import _ from 'lodash';
 
 import FaceRecognition from './components/FaceRecognition/FaceRecognition';
