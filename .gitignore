@@ -21,6 +21,3 @@ Icon
 
 ### node ###
 node_modules
-
-### keep secrets secret
-secrets.js
